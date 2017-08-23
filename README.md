@@ -1,8 +1,8 @@
 # 欢迎光临！
-并不会用这个页面,有时间慢慢学吧！
+并不会用这个页面，有时间慢慢学吧！
 
 ![ori](https://zthjoe.github.io/img/test_1/ori1.png)
-*This image is captured from the game "[Ori and the Blind Forest](https://www.orithegame.com/blind-forest/)".
+*This image was captured from the game "[Ori and the Blind Forest](https://www.orithegame.com/blind-forest/)".
 
 
 ## Welcome to GitHub Pages
