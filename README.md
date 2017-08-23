@@ -1,3 +1,11 @@
+# 初来乍到，还不会编写这样的网页……
+有时间慢慢学呗
+
+
+
+
+===========================那么下面都是模板===========================
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zthjoe/zthjoe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
