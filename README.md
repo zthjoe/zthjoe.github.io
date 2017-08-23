@@ -1,7 +1,7 @@
 # 并不会用这个页面
 有时间慢慢学吧！
 
-！[ori](https://zthjoe.github.io/img/test_1/ori1.png)
+![ori](https://zthjoe.github.io/img/test_1/ori1.png)
 
 
 ## Welcome to GitHub Pages
