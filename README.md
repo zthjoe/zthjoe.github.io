@@ -1,3 +1,10 @@
+# 并不会用这个页面
+有时间慢慢学吧！
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zthjoe/zthjoe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
